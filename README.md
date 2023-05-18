@@ -1,2 +1,2 @@
 # wordle
-console game like Wordley but with numbers
+console game like Wordle but with numbers
